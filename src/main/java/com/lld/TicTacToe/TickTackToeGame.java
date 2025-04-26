@@ -1,6 +1,5 @@
-package com.lld;
-
-import com.lld.Model.*;
+package com.lld.TicTacToe;
+import com.lld.TicTacToe.Modal.*;
 import org.antlr.v4.runtime.misc.Pair;
 
 import java.util.Deque;

@@ -1,4 +1,4 @@
-package com.lld.Model;
+package com.lld.TicTacToe.Modal;
 
 import org.antlr.v4.runtime.misc.Pair;
 
